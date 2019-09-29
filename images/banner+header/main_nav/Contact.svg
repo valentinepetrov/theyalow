@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 14" width="76" height="14">
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 17px;fill: #9b7d08;font-family: "Segoe WP";text-anchor: middle } 
+	</style>
+	<g id="bnner+header">
+		<g id="main_nav">
+			<text id="Contact" style="transform: matrix(1,0,0,1,38,13)" >
+				<tspan x="0" y="0" class="txt0" dx="0 0 0 0 0 0 0" >Contact</tspan>
+			</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 562 340" width="562" height="340">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.302;fill: #efdc8f } 
+	</style>
+	<g id="bnner+header">
+		<g id="player">
+			<path id="Rectangle 4" class="shp0" d="M7 7L556 7L556 334L7 334L7 7Z" />
+		</g>
+	</g>
+</svg>

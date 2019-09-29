@@ -1,0 +1,996 @@
+body {
+    max-width: 1300px;
+    height: 1847px;
+    
+}
+
+/* header */
+
+.header {
+    display: block;
+    position: relative;
+    width: 100%;    
+    height: 30.59%;
+    
+    margin: 0 auto;
+    background-image:
+    url("/images/banner+header/Layer20.svg");    
+}
+
+/* navigation menu */
+
+.navigationPanel {
+  
+  display: block;
+  position: absolute;
+  max-width: 454px;
+  max-height: 42px;
+  width: px;
+  height: auto;
+  top: 70px;
+  left: 706px;
+  margin: 0 auto;    
+}
+
+.shape5 {
+    display: block;
+    position: absolute;
+    max-width: 22px;
+    max-height: 20px;
+    width: px;
+    height: auto;
+    top: 11px;
+    left: 39px;
+    margin: 0 auto;     
+}
+
+.AboutUs {
+    display: block;
+    position: absolute;
+    max-width: 81px;
+    max-height: 14px;
+    width: px;
+    height: auto;
+    top: 15px;
+    left: 70px;
+    margin: 0 auto;     
+}
+
+.AboutUs:hover {
+    background-color: white;    
+} 
+
+.Layer9 {
+    display: block;
+    position: absolute;
+    max-width: 1px;
+    max-height: 40px;
+    width: px;
+    height: auto;
+    top: 1px;
+    left: 173px;
+    margin: 0 auto;     
+}
+
+.Shape6 {
+    display: block;
+    position: absolute;
+    max-width: 20px;
+    max-height: 20px;
+    width: px;
+    height: auto;
+    top: 11px;
+    left: 187px;
+    margin: 0 auto;     
+}
+
+.Services {
+    display: block;
+    position: absolute;
+    max-width: 72px;
+    max-height: 14px;
+    width: px;
+    height: auto;
+    top: 15px;
+    left: 216px;
+    margin: 0 auto;     
+}
+
+.Services:hover {
+    background-color: white;    
+} 
+
+.Layer9copy {
+    display: block;
+    position: absolute;
+    max-width: 1px;
+    max-height: 40px;
+    width: px;
+    height: auto;
+    top: 1px;
+    left: 306px;
+    margin: 0 auto;     
+}
+
+.Shape7 {
+    display: block;
+    position: absolute;
+    max-width: 25px;
+    max-height: 19px;
+    width: px;
+    height: auto;
+    top: 11px   ;
+    left: 323px;
+    margin: 0 auto;     
+}
+
+.Contact {
+    display: block;
+    position: absolute;
+    max-width: 76px;
+    max-height: 14px;
+    width: px;
+    height: auto;
+    top: 15px;
+    left: 356px;
+    margin: 0 auto;     
+}
+
+.Contact:hover {
+    background-color: white;    
+} 
+
+.nav1 {
+    display: block;    
+    position: relative;
+    max-width: 454px;
+    max-height: 42px;
+    width: px;
+    height: auto;
+    top: 0px;
+    left: 0px;
+    margin: 0 auto; 
+}
+
+.nav2 {
+    display: block;
+    position: absolute;
+    max-width: 454px;
+    max-height: 42px;
+    width: px;
+    height: auto;
+    top: 65px;
+    left: 702px;
+    margin: 0 auto; 
+}
+
+.nav3 {
+    display: block;
+    position: absolute;
+    max-width: 454px;
+    max-height: 42px;
+    width: px;
+    height: auto;
+    top: 62px;
+    left: 698px;
+    margin: 0 auto; 
+}
+
+/* the logo */
+
+.theLogo1 {
+    display: block;
+    position: absolute;
+    max-width: 85px;
+    max-height: 85px;
+    width: 6.54%;
+    height: auto;
+    top: 4.78%;
+    left: 10.79%;
+    margin: 0 auto;
+}
+
+.theLogo2 {
+    display: block;
+    position: absolute;
+    max-width: 79px;
+    max-height: 80px;
+    width: 6.08%;
+    height: auto;
+    top:  5.13%;
+    left: 10.97%; 
+    margin: 0 auto;
+}
+
+.theyalow {
+    display: block;
+    position: absolute;
+    color:red;
+    width: 225px;
+    height: 30px;
+    top: 60px;
+    left: 232px;
+    margin: 0 auto;    
+}
+
+
+/* the player */
+
+.thePlayer {    
+    display: block;
+    position: absolute;
+    max-width: 549px;
+    max-height: 327px;
+    width: px;
+    height: auto;
+    top: 168px;
+    left: 150px;
+    margin: 0 auto;
+   
+}
+
+.Layer17 {
+    display: block;    
+    position: relative;
+    max-width: 769px;
+    max-height: 345px;
+    width: px;
+    height: auto;
+    top: 168px;
+    float: left;
+    margin: 0 auto;
+    clip-path: inset(0% 9.10% 5.22% 19.50%);       
+}
+
+.theFirstPlayer {
+    display: block;    
+    position: relative;
+    max-width: 549px;
+    max-height:327px;
+    width: px;
+    height: auto;
+    top: 0px;
+    left: 0px;
+    margin: 0 auto;       
+}
+
+.Ellipse2 {
+    display: block;
+    position: absolute;
+    max-width: 68px;
+    max-height: 68px;
+    width: px;
+    height: auto;
+    top: 129px;
+    left: 240px;
+    margin: 0 auto; 
+}
+
+.Shape10 {
+    display: block;
+    position: absolute;
+    max-width: 20px;
+    max-height: 34px;
+    width: px;
+    height: auto;
+    top: 147px;
+    left: 268px;
+    margin: 0 auto; 
+}
+
+.Layer16 {
+    display: block;
+    position: absolute;
+    max-width: 27px;
+    max-height: 27px;
+    width: px;
+    height: auto;
+    top: 278px;
+    left: 29px;
+    margin: 0 auto; 
+}
+
+.Shape8 {
+    display: block;
+    position: absolute;
+    max-width: 11px;
+    max-height: 17px;
+    width: px;
+    height: auto;
+    top: 283px;
+    left: 39px;
+    margin: 0 auto; 
+}
+
+.RoundedRectangle1 {
+    display: block;
+    position: absolute;
+    max-width: 405px;
+    max-height: 13px;
+    width: px;
+    height: auto;
+    top: 285px;
+    left: 79px;
+    margin: 0 auto; 
+}
+
+.Layer14 {
+    display: block;
+    position: absolute;
+    max-width: 407px;
+    max-height: 38px;
+    width: px;
+    height: auto;
+    top: 274px;
+    left: 77px;
+    margin: 0 auto; 
+    clip-path: inset(32% 0% 36.84% 0.49%);    
+}
+
+.Shape9 {
+    display: block;
+    position: absolute;
+    max-width: 16px;
+    max-height: 15px;
+    width: px;
+    height: auto;
+    top: 285px;
+    left: 514px;
+    margin: 0 auto; 
+}
+
+/* The ctrl */
+
+.Rectangle3copy {
+    display: block;
+    position: absolute;
+    max-width: 32px;
+    max-height: 58px;
+    width: px;
+    height: auto;
+    top: 299px;
+    left: 0px;
+    margin: 0 auto; 
+}
+
+.Shape1 {
+    display: block;
+    position: absolute;
+    max-width: 13px;
+    max-height: 20px;
+    width: px;
+    height: auto;
+    top: 319px;
+    left: 8px;
+    margin: 0 auto; 
+}
+
+.Rectangle3 {
+    display: block;
+    position: absolute;
+    max-width: 33px;
+    max-height: 58px;
+    width: px;
+    height: auto;
+    top: 299px;
+    left: 1267px;
+    margin: 0 auto; 
+}
+
+.Shape1copy {
+    display: block;
+    position: absolute;
+    max-width: 13px;
+    max-height: 20px;
+    width: px;
+    height: auto;
+    top: 318px;
+    left: 1279px;
+    margin: 0 auto; 
+}
+
+/* The cool */
+
+.theCool {
+    display: block;
+    position: absolute;
+    max-width: 392px;
+    max-height: 121px;
+    width: px;
+    height: auto;
+    top: 258px;
+    left: 750px;
+    margin: 0 auto;
+}
+
+/* The first section */
+
+.first {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 212px;
+    background-image:
+    url("/images/section1/Layer\ 7.svg");
+    box-shadow: 0 0 10px #000000;    
+}
+
+.Shape2 {
+    display: block;
+    position: absolute;
+    max-width: 110px;
+    max-height: 75px;
+    width: px;
+    height: auto;
+    top: 60px;
+    left: 252px;
+    margin: 0 auto; 
+}
+
+.Shape3 {
+    display: block;
+    position: absolute;
+    max-width: 92px;
+    max-height: 96px;
+    width: px;
+    height: auto;
+    top: 36px;
+    left: 615px;
+    margin: 0 auto; 
+}
+
+.Shape4 {
+    display: block;
+    position: absolute;
+    max-width: 82px;
+    max-height: 84px;
+    width: px;
+    height: auto;
+    top: 53px;
+    left: 938px;
+    margin: 0 auto; 
+}
+
+.columns {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 138px;
+    margin: 0 auto;
+    
+}
+
+.theFirst {    
+    border: 1px solid #d0cfcf;
+    border-top: 0;
+    border-bottom: 0;
+    padding: 0;
+    width: 340px;
+    height: auto;    
+    text-transform: uppercase;
+    vertical-align: bottom;           
+}
+
+.theFirst p {
+    padding-bottom: 37px;
+    margin: 0 auto;
+}
+
+.theSecond {   
+    border-top: 0;
+    border-bottom: 0;
+    padding: 0;
+    width: 340px;
+    height: 212px;    
+    text-transform: uppercase; 
+    vertical-align: bottom;        
+}
+
+.theSecond p {
+    padding-bottom: 37px;
+    margin: 0 auto;
+}
+
+
+.theThird {
+    border: 1px solid #d0cfcf;
+    border-top: 0;
+    border-bottom: 0;
+    padding: 0;
+    width: 340px;
+    height: 212px;    
+    text-transform: uppercase;
+    vertical-align: bottom;        
+}
+
+.theThird p {
+    padding-bottom: 37px;
+    margin: 0 auto;
+}
+
+/* The second */
+
+.second {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 509px;
+    background-image:
+    url("/images/section2/Layer\ 10\ copy\ 3.svg");
+    box-shadow: inset 0 0 10px #000000; 
+}
+
+/* <slider>*/
+
+.slidecontainer {    
+    display: block;
+    position: absolute;
+    max-width: 894px;
+    max-height: 16px;
+    width: px;
+    height: auto;
+    top: 471px;
+    left: 212px;
+    margin: 0 auto; 
+  }
+  
+  
+  .slider {
+    -webkit-appearance: none;  
+    appearance: none;
+    width: 894px; 
+    height: 16px;
+    background-image:
+    url(/images/section2/RoundedRectangle2.svg); 
+    outline: none; 
+    opacity: 0.48; 
+    -webkit-transition: .2s; 
+    transition: opacity .2s;
+  }
+  
+  
+  .slider:hover {
+    opacity: 1;
+  }
+  
+   
+  .slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 198px; 
+    height: 17px; 
+    background-image:
+    url(/images/section2/RoundedRectangle3.svg); 
+    cursor: pointer; 
+  }
+  
+  
+/* </slider> */
+/* <images> */
+
+.Layer22 {
+    display: block;
+    position: absolute;
+    max-width: 341px;
+    max-height: 233px;
+    width: px;
+    height: auto;
+    top: 110px;
+    left: 139px;
+    margin: 0 auto; 
+}
+
+.Layer25 {
+    display: block;
+    position: absolute;
+    max-width: 463px;
+    max-height: 233px;
+    width: px;
+    height: auto;
+    top: 110px;
+    left: 446px;
+    margin: 0 auto;
+    clip-path: inset(0% 24.63% 0% 7.34%); 
+}
+
+.Shape11 {
+    display: block;
+    position: absolute;
+    max-width: 12px;
+    max-height: 12px;
+    width: px;
+    height: auto;
+    top: 318px;
+    left: 454px;
+    margin: 0 auto; 
+}
+
+.Shape11:hover {
+    background-color: green;
+}
+
+.Ellipse2copy {
+    display: block;
+    position: absolute;
+    max-width: 62px;
+    max-height: 62px;
+    width: px;
+    height: auto;
+    top: 202px;
+    left: 609px;
+    margin: 0 auto; 
+}
+
+.Shape10copy {
+    display: block;
+    position: absolute;
+    max-width: 18px;
+    max-height: 32px;
+    width: px;
+    height: auto;
+    top: 218px;
+    left: 634px;
+    margin: 0 auto; 
+}
+
+
+.Layer22copy3 {
+    display: block;
+    position: absolute;
+    max-width: 329px;
+    max-height: 233px;
+    width: px;
+    height: auto;
+    top: 110px;
+    left: 829px;
+    margin: 0 auto; 
+}
+
+.twitter {
+    display: block;
+    position: absolute;
+    max-width: 164px;
+    max-height: 134px;
+    width: px;
+    height: auto;
+    top: 168px;
+    left: 911px;
+    margin: 0 auto; 
+}
+
+.Shape11copy {
+    display: block;
+    position: absolute;
+    max-width: 12px;
+    max-height: 12px;
+    width: px;
+    height: auto;
+    top: 318px;
+    left: 1137px;
+    margin: 0 auto; 
+}
+
+.Shape11copy:hover {
+    background-color: green;
+}
+.Layer22copy {
+    display: block;
+    position: absolute;
+    max-width: 113px;
+    max-height: 86px;
+    width: px;
+    height: auto;
+    top: 343px;
+    left: 139px;
+    margin: 0 auto; 
+}
+
+/* </image> */
+/* <text> */
+
+.Lorem {    
+    display: block;
+    position: absolute;
+    max-width: 517px;
+    max-height: 28px;
+    width: px;
+    height: auto;
+    top: 42px;
+    left: 143px;
+    margin: 0 auto;     
+}
+
+.LoremIpsum {
+    display: block;
+    position: absolute;
+    max-width: 272px;
+    max-height: 174px;
+    width: px;
+    height: auto;
+    top: 135px;
+    left: 170px;
+    margin: 0 auto; 
+}
+
+.c22 {
+    display: block;
+    position: absolute;
+    max-width: 24px;
+    max-height: 18px;
+    width: px;
+    height: auto;
+    top: 127px;
+    left: 1115px;
+    margin: 0 auto; 
+}
+
+.c25 {
+    display: block;
+    position: absolute;
+    max-width: 55px;
+    max-height: 33px;
+    width: px;
+    height: auto;
+    top: 358px;
+    left: 170px;
+    margin: 0 auto; 
+}
+
+.April {
+    display: block;
+    position: absolute;
+    max-width: 55px;
+    max-height: 15px;
+    width: px;
+    height: auto;
+    top: 405px;
+    left: 171px;
+    margin: 0 auto; 
+}
+
+
+/* </text> */
+
+/* The third */
+
+/* <images> */
+
+.third {
+    display: block;
+    position: relative;
+    max-width: 100%;
+    height: 499px;
+    background-image:
+    url("/images/section3/Layer32.svg");
+}
+
+.Ellipse30 {
+    display: block;
+    position: absolute;
+    max-width: 117px;
+    max-height: 117px;
+    width: px;    
+    height: auto;
+    top: 93px;
+    left: 137px;
+    margin: 0 auto; 
+    opacity: 100%;
+    z-index: 2;
+}
+
+.Layer26 {
+    display: block;
+    position: absolute;
+    max-width: 323px;
+    max-height: 255px;
+    width: px;
+    height: auto;
+    top: 137px;
+    left: 158px;
+    margin: 0 auto; 
+}
+
+.Layer28 {
+    display: block;
+    position: absolute;
+    max-width: 129px;
+    max-height: 173px;
+    width: px;
+    height: auto;
+    top: 179px;
+    left: 505px;
+    margin: 0 auto; 
+}
+
+.Layer29 {
+    display: block;
+    position: absolute;
+    max-width: 39px;
+    max-height: 63px;
+    width: px;
+    height: auto;
+    top: 289px;
+    left: 659px;
+    margin: 0 auto; 
+}
+
+.Ellipse1 {
+    display: block;
+    position: absolute;
+    max-width: 15px;
+    max-height: 15px;
+    width: px;
+    height: auto;
+    top: 187px;
+    left: 777px;
+    margin: 0 auto; 
+}
+
+.Ellipse20 {
+    display: block;
+    position: absolute;
+    max-width: 15px;
+    max-height: 15px;
+    width: px;
+    height: auto;
+    top: 237px;
+    left: 777px;
+    margin: 0 auto; 
+}
+
+.Ellipse3 {
+    display: block;
+    position: absolute;
+    max-width: 15px;
+    max-height: 15px;
+    width: px;
+    height: auto;
+    top: 303px;
+    left: 777px;
+    margin: 0 auto; 
+}
+
+.Ellipse4 {
+    display: block;
+    position: absolute;
+    max-width: 15px;
+    max-height: 15px;
+    width: px;
+    height: auto;
+    top: 354px;
+    left: 777px;
+    margin: 0 auto; 
+}
+
+
+/* </images> */
+/* <text> */
+
+.Its {
+    display: block;
+    position: absolute;
+    max-width: 105px;
+    max-height: 14px;
+    width: px;
+    height: auto;
+    top: 147px;
+    left: 145px;
+    margin: 0 auto;
+    z-index: 3; 
+}
+
+.Lorem11 {
+    display: block;
+    position: absolute;
+    max-width: 601px;
+    max-height: 32px;
+    width: px;
+    height: auto;
+    top: 48px;
+    left: 350px;
+    margin: 0 auto; 
+}
+
+.Sed11 {
+    display: block;
+    position: absolute;
+    max-width: 313px;
+    max-height: 22px;
+    width: px;
+    height: auto;
+    top: 187px;
+    left: 812px;
+    margin: 0 auto; 
+}
+
+.Lorem22 {
+    display: block;
+    position: absolute;
+    max-width: 345px;
+    max-height: 49px;
+    width: px;
+    height: auto;
+    top: 235px;
+    left: 812px;
+    margin: 0 auto; 
+}
+
+.Sed22 {
+    display: block;
+    position: absolute;
+    max-width: 313px;
+    max-height: 22px;
+    width: px;
+    height: auto;
+    top: 301px;
+    left: 812px;
+    margin: 0 auto; 
+}
+
+.Lorem33 {
+    display: block;
+    position: absolute;
+    max-width: 345px;
+    max-height: 49px;
+    width: px;
+    height: auto;
+    top: 352px;
+    left: 812px;
+    margin: 0 auto; 
+}
+
+/* </text> */
+
+/* the footer */
+
+footer {
+    display: block;
+    position : relative;
+    width: 100%;
+    height: 64px;
+    background-color: #4c4c4c;
+    margin: 0 auto;       
+    box-shadow: 0px -3px 5px black;
+}
+
+.Shape8copy3 {
+    display: block;
+    position: absolute;
+    max-width: 56px;
+    max-height: 56px;
+    width: px;
+    height: auto;
+    top: 1px;
+    left: 139px;
+    margin: 0 auto; 
+}
+
+.Shape8copy4 {
+    display: block;
+    position: absolute;
+    max-width: 52px;
+    max-height: 52px;
+    width: px;
+    height: auto;
+    top: 3px;
+    left: 141px;
+    margin: 0 auto; 
+}
+
+.theyalow2 {
+    display: block;
+    position: absolute;
+    max-width: 160px;
+    max-height: 21px;
+    width: px;
+    height: auto;
+    top: 23px;
+    left: 203px;
+    margin: 0 auto; 
+}
+
+/* other stuff */
+
+@media (width: 640px) {
+         
+  }
